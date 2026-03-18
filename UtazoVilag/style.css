@@ -1,0 +1,20 @@
+body {
+    margin:0;
+    font-family:Arial, sans-serif;
+    background-color:#f2f2f2;
+    color:#333;
+    text-align:center;
+}
+
+header {
+    background-color: #F5790C;
+    color: white;
+}
+
+footer {
+    background-color: rgb(62, 8, 90);
+    color: white;
+}
+@media screen {
+    
+}
